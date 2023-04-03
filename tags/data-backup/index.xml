@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Backup on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/data-backup/</link>
+    <description>Recent content in Data Backup on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/data-backup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Power of File History and Make Windows 10 Backup a Breeze!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/unlock-the-power-of-file-history-and-make-windows-10-backup-a-breeze-/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/unlock-the-power-of-file-history-and-make-windows-10-backup-a-breeze-/</guid>
+      <description>Introduction to File History Windows 10 File History is a powerful tool that makes backing up your files and data a breeze. It&amp;rsquo;s a feature that allows you to easily and quickly create a backup of your important files and folders. It is designed to help you keep your data safe, secure, and accessible.
+What is File History? File History is a Windows 10 feature that allows you to back up your files and data to an external drive.</description>
+    </item>
+    
+    <item>
+      <title>Horrifying Accident: Volume Shadow Snapshot Deleted Without Warning!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/horrifying-accident-volume-shadow-snapshot-deleted-without-warning-/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/horrifying-accident-volume-shadow-snapshot-deleted-without-warning-/</guid>
+      <description>Introduction Accidents happen, but there are few more horrifying than when a Volume Shadow Snapshot is deleted without warning. This type of accident can have serious consequences, such as data loss or system downtime. In this blog post, we will discuss what a Volume Shadow Snapshot is, describe the accident that occurred, and examine ways to prevent similar accidents from happening in the future.
+Definition of Volume Shadow Snapshot A Volume Shadow Snapshot (VSS) is a feature of Microsoft Windows that allows users to take a “snapshot” of their system at a specific point in time.</description>
+    </item>
+    
+    <item>
+      <title>Uncover the Mystery of Shadow Copies and Discover How They Can Protect Your Files!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/uncover-the-mystery-of-shadow-copies-and-discover-how-they-can-protect-your-files-/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/uncover-the-mystery-of-shadow-copies-and-discover-how-they-can-protect-your-files-/</guid>
+      <description>Uncover the Mystery of Shadow Copies and Discover How They Can Protect Your Files! Shadow copies are a great tool for protecting your files and recovering data, but many people don&amp;rsquo;t understand what they are or how to use them. This blog post will explain what shadow copies are, discuss the benefits they offer, and give you step-by-step instructions on how to use them.
+Introduction A shadow copy is a snapshot of a file or folder at a specific point in time.</description>
+    </item>
+    
+  </channel>
+</rss>

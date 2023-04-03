@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows Subsystem for Linux (WSL) on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/windows-subsystem-for-linux-wsl/</link>
+    <description>Recent content in Windows Subsystem for Linux (WSL) on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/windows-subsystem-for-linux-wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock Limitless Possibilities: How WSL Lets You Run Multiple Distros on Windows!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/unlock-limitless-possibilities-how-wsl-lets-you-run-multiple-distros-on-windows-/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/unlock-limitless-possibilities-how-wsl-lets-you-run-multiple-distros-on-windows-/</guid>
+      <description>Introduction Windows Subsystem for Linux (WSL) is a feature of Windows 10 that allows users to run multiple Linux distributions directly on Windows. This feature has been around since 2016 and has become increasingly popular as more and more users are discovering the benefits of running multiple Linux distros on Windows. In this blog post, we will discuss what WSL is, the benefits of using it, and how to install multiple distros on Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

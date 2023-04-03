@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Group Policy Settings on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/group-policy-settings/</link>
+    <description>Recent content in Group Policy Settings on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/group-policy-settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Secrets of Group Policy Registry Location on Windows 10!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/unlock-the-secrets-of-group-policy-registry-location-on-windows-10-/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/unlock-the-secrets-of-group-policy-registry-location-on-windows-10-/</guid>
+      <description>Unlock the Secrets of Group Policy Registry Location on Windows 10! Group policy is a powerful tool used to configure and manage systems in a Windows environment. It is used to set the security and other system settings on computers in a domain. Group policy can be used to configure user and system settings, such as security settings, user accounts, and software installation. Understanding the registry location of group policy can be beneficial in troubleshooting and managing your system.</description>
+    </item>
+    
+  </channel>
+</rss>

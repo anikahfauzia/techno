@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Security on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/computer-security/</link>
+    <description>Recent content in Computer Security on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/computer-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Won&#39;t Believe What Happens When You Move Your Mouse On Your PC!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happens-when-you-move-your-mouse-on-your-pc-/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happens-when-you-move-your-mouse-on-your-pc-/</guid>
+      <description>Introduction Moving your mouse on your PC is a common activity that many of us take for granted. We often don&amp;rsquo;t think about what happens when we do it, but it&amp;rsquo;s actually quite an interesting process. In this blog post, we&amp;rsquo;ll explore what happens when you move your mouse on your PC and the benefits of using a mouse.
+Overview of the Topic When you move your mouse on your PC, you&amp;rsquo;re using a device called a mouse.</description>
+    </item>
+    
+    <item>
+      <title>This Viral WMI Provider Host Could Be Putting Your Computer at Risk - Here&#39;s What You Need to Know!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/this-viral-wmi-provider-host-could-be-putting-your-computer-at-risk-here-s-what-you-need-to-know-/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/this-viral-wmi-provider-host-could-be-putting-your-computer-at-risk-here-s-what-you-need-to-know-/</guid>
+      <description>IV. Conclusion
+Introduction to WMI Provider Host WMI Provider Host (WmiPrvSE.exe) is a Windows process that is used to manage Windows Management Instrumentation (WMI) providers. WMI is a technology that allows applications to access and query system information and perform administrative tasks on Windows systems. WMI Provider Host is an essential component of the Windows operating system, but it can become a source of security risks and performance problems.
+Understanding the Risks of WMI Provider Host The WMI Provider Host process is designed to run in the background, but it can consume a large amount of system resources if it is not managed properly.</description>
+    </item>
+    
+    <item>
+      <title>Discover the Secret to Unlocking Administrator Privileges on Windows 10!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/discover-the-secret-to-unlocking-administrator-privileges-on-windows-10-/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/discover-the-secret-to-unlocking-administrator-privileges-on-windows-10-/</guid>
+      <description>Introduction Are you a Windows 10 user looking to unlock administrator privileges? If so, you’ve come to the right place! In this blog post, we’ll discuss what administrator privileges are and how to unlock them on Windows 10.
+Overview of Administrator Privileges Administrator privileges are essential for users who need to make changes to their system settings. With administrator privileges, you can install software, access system files, and make other changes to the system that would otherwise be unavailable to standard users.</description>
+    </item>
+    
+    <item>
+      <title>You Won&#39;t Believe What Happened When We Tried to Access UEFI Bootrec /Fixboot!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-tried-to-access-uefi-bootrec-fixboot-/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-tried-to-access-uefi-bootrec-fixboot-/</guid>
+      <description>Introduction Have you ever encountered a problem while attempting to access UEFI Bootrec /Fixboot? We recently had a similar experience and wanted to share our story with you.
+Definition of UEFI Bootrec /Fixboot First, let’s take a step back and define what UEFI Bootrec /Fixboot is. UEFI stands for Unified Extensible Firmware Interface, and it is a type of software that is responsible for the startup process of your computer. The Bootrec /Fixboot command is a tool that can be used to repair the boot sector of a hard drive.</description>
+    </item>
+    
+    <item>
+      <title>This Common Error Could Put Your Computer in Danger - Find Out What 0x0000011b Means Now!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/this-common-error-could-put-your-computer-in-danger-find-out-what-0x0000011b-means-now-/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/this-common-error-could-put-your-computer-in-danger-find-out-what-0x0000011b-means-now-/</guid>
+      <description>Introduction Do you know what 0x0000011b means? This is a common error code that can indicate serious issues with your computer. In this blog post, we’ll explain what 0x0000011b is, the potential impact of the error, and how to resolve it.
+Definition of 0x0000011b Error 0x0000011b is a Windows stop error code, also called a blue screen of death (BSOD). This error occurs when Windows encounters a critical system error and cannot continue.</description>
+    </item>
+    
+  </channel>
+</rss>

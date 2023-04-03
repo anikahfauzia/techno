@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Troubleshooting on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This One Trick Will Help You Boot Into Safe Mode On Windows 11 In Just Seconds!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/this-one-trick-will-help-you-boot-into-safe-mode-on-windows-11-in-just-seconds-/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/this-one-trick-will-help-you-boot-into-safe-mode-on-windows-11-in-just-seconds-/</guid>
+      <description>Introduction Are you having trouble with your Windows 11 computer? If so, you may need to boot into safe mode. Safe mode is a diagnostic mode of a computer operating system (OS). It can help you troubleshoot problems with your computer by limiting the number of programs and drivers that can be used. In this blog post, we&amp;rsquo;ll explain what safe mode is and why it&amp;rsquo;s so useful. We&amp;rsquo;ll also provide a step-by-step guide on how to boot into safe mode on Windows 11 in just seconds.</description>
+    </item>
+    
+    <item>
+      <title>Solve the Mystery: Why Won&#39;t Google Drive Show Up in Your File Explorer?</title>
+      <link>https://anikahfauzia.github.io/techno/posts/solve-the-mystery-why-won-t-google-drive-show-up-in-your-file-explorer-/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/solve-the-mystery-why-won-t-google-drive-show-up-in-your-file-explorer-/</guid>
+      <description>IV. Conclusion
+Introduction to Google Drive Google Drive is an online storage platform that allows users to store and access files from any device with an internet connection. It is a great tool for collaboration, as it allows multiple users to access and edit the same document in real-time. Google Drive is also a great way to back up important files and documents, as it is stored in the cloud and can be accessed from anywhere.</description>
+    </item>
+    
+    <item>
+      <title>You Won&#39;t Believe What Happened When We Tried to Access UEFI Bootrec /Fixboot!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-tried-to-access-uefi-bootrec-fixboot-/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-tried-to-access-uefi-bootrec-fixboot-/</guid>
+      <description>Introduction Have you ever encountered a problem while attempting to access UEFI Bootrec /Fixboot? We recently had a similar experience and wanted to share our story with you.
+Definition of UEFI Bootrec /Fixboot First, let’s take a step back and define what UEFI Bootrec /Fixboot is. UEFI stands for Unified Extensible Firmware Interface, and it is a type of software that is responsible for the startup process of your computer. The Bootrec /Fixboot command is a tool that can be used to repair the boot sector of a hard drive.</description>
+    </item>
+    
+    <item>
+      <title>Dreaded Error 0x0000011b Strikes Again - How to Fix It in Windows 10</title>
+      <link>https://anikahfauzia.github.io/techno/posts/dreaded-error-0x0000011b-strikes-again-how-to-fix-it-in-windows-10/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/dreaded-error-0x0000011b-strikes-again-how-to-fix-it-in-windows-10/</guid>
+      <description>E. Run DISMIV. Conclusion
+Introduction We’ve all been there - you’re working on something important and suddenly your computer starts acting up. You’re presented with the dreaded error 0x0000011b and you have no idea what to do. Don’t worry, we’ve got you covered. In this blog post, we’ll explain what error 0x0000011b is, how it affects Windows 10, and how you can fix it.
+What is Error 0x0000011b? Error 0x0000011b is an error code that is displayed when there is a problem with a device driver or system file.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Ignore This: How to Fix the Event Viewer DistributedCOM Warning!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/don-t-ignore-this-how-to-fix-the-event-viewer-distributedcom-warning-/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/don-t-ignore-this-how-to-fix-the-event-viewer-distributedcom-warning-/</guid>
+      <description>IV. Conclusion
+Introduction to the Event Viewer DistributedCOM Warning The Event Viewer is an important tool for Windows users. It provides detailed information about system events, including warnings and errors. One of the most common warnings is the DistributedCOM warning, which can be triggered by a variety of issues. In this post, we&amp;rsquo;ll discuss what causes this warning and how to fix it.
+What is the Event Viewer DistributedCOM Warning? The Event Viewer DistributedCOM warning is a message that appears in the Event Viewer when a program or application attempts to use the Distributed Component Object Model (DCOM) but fails.</description>
+    </item>
+    
+    <item>
+      <title>You Won&#39;t Believe What Happens When You Try to Connect Your Printer to Windows - Regedit Will Shock You!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happens-when-you-try-to-connect-your-printer-to-windows-regedit-will-shock-you-/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happens-when-you-try-to-connect-your-printer-to-windows-regedit-will-shock-you-/</guid>
+      <description>IV. Conclusion
+Introduction Are you having trouble connecting your printer to Windows? If so, you&amp;rsquo;re in luck! In this blog post, we&amp;rsquo;ll discuss the steps you need to take to successfully connect your printer to Windows, including how to access and use the Windows Registry Editor (Regedit).
+Definition of Regedit Regedit is a powerful tool that allows you to access and modify the settings and configuration of your Windows operating system.</description>
+    </item>
+    
+    <item>
+      <title>This One Simple Trick Will Make Disabling Shadow Copy In Windows 11 A Breeze!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/this-one-simple-trick-will-make-disabling-shadow-copy-in-windows-11-a-breeze-/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/this-one-simple-trick-will-make-disabling-shadow-copy-in-windows-11-a-breeze-/</guid>
+      <description>This One Simple Trick Will Make Disabling Shadow Copy In Windows 11 A Breeze! Shadow Copy is a feature in Windows 11 that allows users to create a backup of their files. This backup can be used to restore data if it is lost or damaged. While Shadow Copy can be a useful feature, it can also take up a lot of disk space and can slow down your computer. Disabling Shadow Copy in Windows 11 is a simple process that can help free up disk space and improve your computer&amp;rsquo;s performance.</description>
+    </item>
+    
+  </channel>
+</rss>

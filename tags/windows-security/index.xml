@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows Security on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/windows-security/</link>
+    <description>Recent content in Windows Security on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/windows-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Secrets of Shadow Copy Windows and Protect Your Data Forever!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/unlock-the-secrets-of-shadow-copy-windows-and-protect-your-data-forever-/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/unlock-the-secrets-of-shadow-copy-windows-and-protect-your-data-forever-/</guid>
+      <description>Introduction to Shadow Copy Windows Shadow Copy Windows is a powerful feature of the Microsoft Windows operating system that allows users to create a backup of their data. It is a great way to protect your data in case of a system crash or other data loss event. This article will discuss the definition of Shadow Copy, the benefits of using it, and how it works.
+Definition of Shadow Copy Shadow Copy Windows is a feature of the Windows operating system that allows users to create a copy of their data and store it on a separate location.</description>
+    </item>
+    
+  </channel>
+</rss>

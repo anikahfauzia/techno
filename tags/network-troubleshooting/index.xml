@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Network Troubleshooting on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/network-troubleshooting/</link>
+    <description>Recent content in Network Troubleshooting on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/network-troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Won&#39;t Believe What Happened When We Ran a DNS Probe and There Was No Internet!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-ran-a-dns-probe-and-there-was-no-internet-/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/you-won-t-believe-what-happened-when-we-ran-a-dns-probe-and-there-was-no-internet-/</guid>
+      <description>Introduction We all depend on the internet to stay connected and access the information we need. But what happens when the connection is lost? Recently, our team experienced this first-hand when we ran a DNS probe and there was no internet.
+Definition of DNS Probe A DNS probe is a diagnostic tool used to identify potential problems with the Domain Name System (DNS). It is used to detect and troubleshoot DNS issues such as name resolution problems, slow response times, and other issues that can impact internet performance.</description>
+    </item>
+    
+  </channel>
+</rss>

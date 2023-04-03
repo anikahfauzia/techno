@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anikahfauzia.github.io/techno/sitemap.xml

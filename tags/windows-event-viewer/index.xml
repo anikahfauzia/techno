@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows Event Viewer on Anikah Fauzia</title>
+    <link>https://anikahfauzia.github.io/techno/tags/windows-event-viewer/</link>
+    <description>Recent content in Windows Event Viewer on Anikah Fauzia</description>
+    <image>
+      <url>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://anikahfauzia.github.io/techno/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anikahfauzia.github.io/techno/tags/windows-event-viewer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t Ignore This: How to Fix the Event Viewer DistributedCOM Warning!</title>
+      <link>https://anikahfauzia.github.io/techno/posts/don-t-ignore-this-how-to-fix-the-event-viewer-distributedcom-warning-/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://anikahfauzia.github.io/techno/posts/don-t-ignore-this-how-to-fix-the-event-viewer-distributedcom-warning-/</guid>
+      <description>IV. Conclusion
+Introduction to the Event Viewer DistributedCOM Warning The Event Viewer is an important tool for Windows users. It provides detailed information about system events, including warnings and errors. One of the most common warnings is the DistributedCOM warning, which can be triggered by a variety of issues. In this post, we&amp;rsquo;ll discuss what causes this warning and how to fix it.
+What is the Event Viewer DistributedCOM Warning? The Event Viewer DistributedCOM warning is a message that appears in the Event Viewer when a program or application attempts to use the Distributed Component Object Model (DCOM) but fails.</description>
+    </item>
+    
+  </channel>
+</rss>
